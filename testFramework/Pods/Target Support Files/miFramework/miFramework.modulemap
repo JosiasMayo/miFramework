@@ -1,0 +1,6 @@
+framework module miFramework {
+  umbrella header "miFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

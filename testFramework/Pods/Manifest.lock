@@ -1,0 +1,16 @@
+PODS:
+  - miFramework (1.0.0)
+
+DEPENDENCIES:
+  - miFramework (from `../miFramework`)
+
+EXTERNAL SOURCES:
+  miFramework:
+    :path: "../miFramework"
+
+SPEC CHECKSUMS:
+  miFramework: 05be2ddab17f88329f5da9e0646d57b7d8ca5c9a
+
+PODFILE CHECKSUM: 8ad4b9dd6f0811eaf6576d82b34b10fb7ebf2ed7
+
+COCOAPODS: 1.6.1
